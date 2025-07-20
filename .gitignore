@@ -1,0 +1,8 @@
+# Bỏ qua các file không cần quản lý 
+*.exe 
+*.o 
+*.obj 
+*.log 
+.vscode/ 
+build/ 
+data/students.txt 
